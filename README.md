@@ -1,6 +1,19 @@
-## Encyclopedia of Proof Systems
+## Encyclopedia of Deductive Systems
 
 This is a fork of the collaborative and open Encyclopedia of Proof Systems.
+
+The goal is to have:
+
+* NJ, NK — Gentzen-Prawitz (propositional only)
+* LJ, LK, Maehara-Dragalin, FIL
+* CLL, ILL, one-sided CLL, FILL
+* (classical modal) K, S4, S5
+* IK, CK, IS4, CS4, modal cubes (classical and constructive)
+* Barendregt’s cube and Dowek’s windrose 
+* NE_p  what else
+
+  
+### License
 
 It is licensed according to a Creative Commons license: 
 
@@ -11,7 +24,7 @@ If you would like to contribute, please check the [submission instructions](http
 
 ### Citing
 
-If you would like to cite the whole encyclopaedia, please use the following BibTeX entry:
+If you would like to cite the original encyclopaedia, please use the following BibTeX entry:
 
     @book{EPS,
       title = {Towards an Encyclopaedia of Proof Systems},   
@@ -25,19 +38,5 @@ If you would like to cite the whole encyclopaedia, please use the following BibT
       isbn = {978-1-84890-233-6}
     }
 
-If you would like to cite a single entry of the encyclopaedia, please use the following BibTeX entry (replacing bracketed placeholders by content corresponding to the entry):
 
-    @incollection{[bibentry key],
-      booktitle = {Towards an Encyclopaedia of Proof Systems},
-      editor = {Woltzenlogel Paleo, Bruno},
-      title = {[entry title]},
-      author    = {[entry authors]},
-      pages     = {[page range of the entry]}, 
-      publisher = {College Publications}, 
-      address = {London, UK},
-      url       = {https://github.com/ProofSystem/Encyclopedia/blob/master/main.pdf},
-      year      = {2017},
-      month = {1},
-      edition = {1}
-    }
-
+    
