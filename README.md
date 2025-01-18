@@ -4,7 +4,7 @@ This is a fork of the collaborative and open Encyclopedia of Proof Systems.
 
 The goal is to have:
 
-* NJ, NK — Gentzen-Prawitz (propositional only)
+* NJ, NK (Gentzen-Prawitz style, propositional only)
 * LJ, LK, Maehara-Dragalin, FIL
 * CLL, ILL, one-sided CLL, FILL
 * (classical modal) K, S4, S5
