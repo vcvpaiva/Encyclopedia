@@ -1,6 +1,6 @@
 ## Encyclopedia of Proof Systems
 
-This is a collaborative and open Encyclopedia of Proof Systems.
+This is a fork of the collaborative and open Encyclopedia of Proof Systems.
 
 It is licensed according to a Creative Commons license: 
 
