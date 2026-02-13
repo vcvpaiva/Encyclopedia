@@ -1,18 +1,26 @@
-## Encyclopedia of Proof Systems
+## Encyclopedia of Deductive Systems
 
-This is a collaborative and open Encyclopedia of Proof Systems.
+This is a fork of the collaborative and open [Encyclopedia of Proof Systems]().
+
+The goal is to have only some of the systems in the original encyclopedia:
+
+   * NJ, NK (Gentzen-Prawitz style, propositional only)
+   * LJ, LK, Maehara-Dragalin, FIL
+   * CLL, ILL, one-sided CLL, FILL
+   * IK, CK, IS4, CS4, modal cubes (classical and constructive)
+   * Barendregt’s cube and Dowek’s `windrose
+
+(maybe even fewer)
 
 It is licensed according to a Creative Commons license: 
 
 [![License](http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US).
 
-### Contributing
 
-If you would like to contribute, please check the [submission instructions](http://proofsystem.github.io/Encyclopedia/).
 
 ### Citing
 
-If you would like to cite the whole encyclopaedia, please use the following BibTeX entry:
+If you would like to cite the whole original encyclopaedia, please use the following BibTeX entry:
 
     @book{EPS,
       title = {Towards an Encyclopaedia of Proof Systems},   
