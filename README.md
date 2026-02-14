@@ -2,7 +2,7 @@
 
 This is a fork of the collaborative and open [Encyclopedia of Proof Systems]().
 
-The goal is to have only some of the systems in the original encyclopedia:
+The goal is to have only some of the systems in the original encyclopedia including:
 
    * NJ, NK (Gentzen-Prawitz style, propositional only)
    * LJ, LK, Maehara-Dragalin, FIL
@@ -11,6 +11,8 @@ The goal is to have only some of the systems in the original encyclopedia:
    * Barendregt’s cube and Dowek’s `windrose
 
 (maybe even fewer)
+
+Weonly want systems for which we have (or hope to have soon) Curry-Howard correspondences.
 
 It is licensed according to a Creative Commons license: 
 
